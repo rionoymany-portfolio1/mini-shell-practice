@@ -23,7 +23,7 @@ Learning project / under development
 python3 test.py
 python3 test2.py
 
-## Example
+## Example from test.py
 mini-shell> hello 
 Hello, this is pentesting service
 mini-shell> I want to use your service
