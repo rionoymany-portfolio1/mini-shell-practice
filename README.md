@@ -13,7 +13,7 @@ It simulates a simple shell that can read user commands, handle basic commands, 
 - **test2.py** : improved version with command parsing and basic error handling
 
 ## How to run
-Run with Python 3:
+```bash
 python3 test.py
 python3 test2.py
 
