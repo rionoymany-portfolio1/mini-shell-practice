@@ -23,7 +23,7 @@ Hello, this is pentesting service
 mini-shell> I want to use your service
 sorry this is developing now please coming soon...
 mini-shell> exit
-Bye bye see you later
+Bye bye see you later ```bash
 
 ## Purpose
 Learning how a simple shell works and practicing programming logic.
