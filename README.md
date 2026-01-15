@@ -12,6 +12,12 @@ It simulates a simple shell that can read user commands, handle basic commands, 
 - **test.py** : basic version of mini shell (simple input and output)
 - **test2.py** : improved version with command parsing and basic error handling
 
+## Purpose
+Learning how a simple shell works and practicing programming logic.
+
+## Status
+Learning project / under development
+
 ## How to run
 ```bash
 python3 test.py
@@ -23,10 +29,4 @@ Hello, this is pentesting service
 mini-shell> I want to use your service
 sorry this is developing now please coming soon...
 mini-shell> exit
-Bye bye see you later ```bash
-
-## Purpose
-Learning how a simple shell works and practicing programming logic.
-
-## Status
-Learning project / under development
+Bye bye see you later
